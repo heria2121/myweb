@@ -1,0 +1,30 @@
+ body {
+ background-color: rgb(220, 249, 249);
+     font-family: sans-serif;
+}
+
+h3 {
+    color: #555;
+}
+
+p {
+    background-color: rgb(243, 225, 204);
+    color:blueviolet;
+    padding:30px;
+}
+
+a {
+    color: darkolivegreen;
+}
+
+.second{
+    background-color: beige;
+    color:blue;
+}
+
+#special {
+    background-color: black;
+    color: yellowgreen;
+}
+
+
